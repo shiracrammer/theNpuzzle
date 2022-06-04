@@ -1,0 +1,37 @@
+
+#puzzle_container
+{
+	margin-top: 110px;
+	width:500px;
+	height:500px;
+	border: 2px inset red;
+}
+ 
+table, td {
+  border: 1px dotted gray;
+}
+
+ td {
+  padding: 5px;
+  width:150px;
+  height:151px;
+  text-align: center;
+  background-color : rgb(129, 213, 224);
+}
+
+div
+{
+	cursor: pointer;
+	font-size: 60px;
+	color: rgb(22, 4, 34);
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#attemmps
+{
+	padding: 20px;
+	font-size: 50px;
+	color: red;
+}
+
+
